@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/news/static/css/main.073c9b0a.css",
+    "main.js": "/news/static/js/main.385cafeb.js",
+    "static/js/787.998b4c01.chunk.js": "/news/static/js/787.998b4c01.chunk.js",
+    "static/media/Glass spheres.gif": "/news/static/media/Glass spheres.7d0c5d6a53b1d248cb2e.gif",
+    "index.html": "/news/index.html",
+    "main.073c9b0a.css.map": "/news/static/css/main.073c9b0a.css.map",
+    "main.385cafeb.js.map": "/news/static/js/main.385cafeb.js.map",
+    "787.998b4c01.chunk.js.map": "/news/static/js/787.998b4c01.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.385cafeb.js"
+  ]
+}
